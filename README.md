@@ -137,5 +137,5 @@
 
 -----
 
-Credit: [ZIN](https://github.com/zin.dev)
+Credit: [ZIN](https://github.com/zinitdev)
 Last Edited on: 17/01/2023
