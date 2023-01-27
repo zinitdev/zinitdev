@@ -1,8 +1,4 @@
-### Hi there, 👋  I'm Ark
-
-<br>
-
-<h1>I'm a FullStack Web Developer.</h1>
+<h1>Hi, 👋  I'm ZIN</h1>
 
 <br>
 
@@ -12,9 +8,7 @@
 
 <br>
 
-- A passionate Self-taught Full Stack developer
-- Currently learning Web Development by Self
-- I'm looking for a job opportunity for Intern position, here is [my resume](https://read.cv/the1000ark)
+- A passionate Self-taught Full Stack Web Developer
 
 <br><br>
 
@@ -143,5 +137,5 @@
 
 -----
 
-Credit: [The 1000 Ark](https://github.com/the1000ark)
+Credit: [ZIN](https://github.com/zin.dev)
 Last Edited on: 17/01/2023
